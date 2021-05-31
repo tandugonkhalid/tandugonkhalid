@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tandugonkhalid
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning bootstrap, vanilla js, jquery and ajax
+- 🌱 I’m currently learning Vue JS, Laravel and ajax
 - 💞️ I’m looking to collaborate on future frontend projects
 - 📫 You can reach me at khalidtandugon@gmail.com
 

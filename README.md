@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tandugonkhalid
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning Vue JS, Laravel and ajax
-- 💞️ I’m looking to collaborate on future frontend projects
+- 💞️ I’m looking to collaborate on future projects
 - 📫 You can reach me at khalidtandugon@gmail.com
 
 <!---
